@@ -1,0 +1,34 @@
+#383D58
+body {
+    #383D58
+    }
+    body {
+        #383D58
+        }
+        body {
+            background-color: #383D58;
+            }
+            <title>Document</title>
+<link rel=”stylesheet” href=”style.css”>
+<h1>Vai ser uma imagem aqui</h1>
+<ul>
+</ul>
+<ul>
+<li>Estudante</li>
+<li>Escola</li>
+</ul>
+<header>
+<h1>Vai ser uma imagem aqui</h1>
+<ul>
+<li>Estudante</li>
+<li>Escola</li>
+</ul>
+</header>
+body {
+    background-color: #383D58;
+    color: white;
+    }
+    header {
+        background-color: #383D58;
+        color: white;
+        }
